@@ -29,3 +29,6 @@ print(emp_1.email)
 print(emp_1.fullname)
 
 emp_2 = Employee
+
+for num in [1, 2, 3, 4]:
+    print(num)
